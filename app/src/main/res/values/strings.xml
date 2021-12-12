@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootballLeaguesApp</string>
+    <string name="app_name_pretty">Football Leagues</string>
+
+
+    <string name="text_liga_spain">La Liga Santander</string>
+    <string name="text_stadium">Stadium: </string>
+    <string name="text_home_kit">Home Kit</string>
+    <string name="text_social_networks">Social Networks</string>
+    <string name="text_last_five_events">Last five events</string>
+</resources>
